@@ -8,16 +8,17 @@
 ### 简介
 > 手残+眼神不好
 > 
-> 曾尝试编译 
-> [Lineage OS](https://github.com/LineageOS)，没开机，不然就是Bug没解决
+> 尝试编译 
+> [Lineage OS](https://github.com/LineageOS)
 > 
-> [PixelExperience](https://github.com/PixelExperience/), 报错，没时间解决
+> [PixelExperience](https://github.com/PixelExperience/)
 > 
-> [TWRP](https://github.com/TeamWin/Team-Win-Recovery-Project) 大多数直接编译成功
+> [TWRP](https://github.com/TeamWin/Team-Win-Recovery-Project) 
 
 
 ### 编程
 学了一学期的`C`，转战`Python`
+开始自学`kotlin`
 
 ### 设备
 - B450M + R5 2600X + 24G DDR4 + GTX 1060 3G + 500G SSD + 2.5T HDD
